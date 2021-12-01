@@ -1,4 +1,5 @@
 Title: Comparison of different predictive modeling methods on the detection of wildfires
+
 Authors: Ali Hossaini & Amber Benbow
 Contact information: hossa084@umn.edu
 Date: Dec 1st, 2021
