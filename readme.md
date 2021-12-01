@@ -1,4 +1,4 @@
-#Comparison of different predictive modeling methods on the detection of wildfires
+# Comparison of different predictive modeling methods on the detection of wildfires
 
 Authors: Ali Hossaini & Amber Benbow
 
