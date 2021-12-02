@@ -11,6 +11,7 @@
 
 
 Project Description:
+
   Multiple studies have found that climate change has already led to an increase in
   wildfire season length, wildfire frequency, and burned area. The wildfire season has
   lengthened in many areas due to factors including warmer springs, longer summer dry 
