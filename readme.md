@@ -20,7 +20,7 @@ Project Description:
   in critical decision making regarding fires prior to a fire happening. Fire reduction
   strategies or early evacuations could hopefully be employed. In terms of geocomputing,
   I want to explore SVM & ML codes to predict this problem by confirming the success
-  of different methods models at analyzing this information. By the end of this project,
+  of different method models at analyzing this information. By the end of this project,
   I hope to make this method replicable for different areas and/or different timeframes.
 
 
