@@ -7,7 +7,7 @@
       Date: Dec 1st, 2021
 ================================================================================
 
-12/01/21   Ali Hossaini & Amber Benbow, GEOG 5543, Fall 2021
+12/01/21   Ali Hossaini & Amber Benbow, GEOG 5543, University of Minnesota, Fall 2021
 
 
 Project Description:
